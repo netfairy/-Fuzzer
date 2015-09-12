@@ -1,2 +1,2 @@
 # -Fuzzer
-网络精灵Fuzzer用于驱动IoControlCode测试和文件格式测试
+网络精灵Fuzzer用于驱动IoControlCode测试和文件格式测试，使用时候请把网络精灵Fuzzer和Locating_overflow放到同一目录。
